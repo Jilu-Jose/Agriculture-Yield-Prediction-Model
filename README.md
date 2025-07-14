@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a regression model using machine learning techniques to forecast crop yield based on various agro-environmental parameters such as rainfall, temperature, soil conditions, and pesticide usage. The system also provides feature importance analysis and interactive visualizations using Power BI to assist farmers, agronomists, and policymakers in decision-making and yield improvement.
+This project aims to build a regression model using machine learning techniques to forecast crop yield based on various agro-environmental parameters such as rainfall, temperature, area, item, and pesticide usage. The system also provides feature importance analysis and interactive visualizations using Power BI to assist farmers, agronomists, and policymakers in decision-making and yield improvement.
 
 ## Table of Contents
 
